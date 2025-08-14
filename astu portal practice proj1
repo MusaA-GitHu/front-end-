@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portal html</title>
+    <style>
+        body{
+            background-color: #f8f6f6;
+            margin-top: 70px;
+        }
+        img{
+            width: 70px;
+            height: 70px;
+            border-radius:90%;
+            margin-left:500px; 
+        }
+        input{
+            width: 300px;
+            height: 30px;
+            border: 1px solid;
+            border-right: none;
+        
+        }
+    </style>
+
+</head>
+    
+<body>
+    <img src="NCC.jpg"><br>
+    <h3 style="margin-left :460px; margin-top:0px;"><b>NCC</b><p style="display: inline;color:gray;"> E-Student </p></h3>
+    
+    
+    <form style="background-color: white; 
+    display:inline-block;
+    border:none;
+    margin-left:350px;
+    ">
+        <fieldset style="width: 350px;
+        border:none;
+        "> 
+        <p style="font-size: smaller; margin-left:60px">For Student Only</p>
+        <label for="User Name"></label>
+        <div style="display: flex;border:1px;" >
+        <input type="text" placeholder="username" border-right="none">
+      <button style="width: 35px; height:33px;background-color:white;border:1px solid;border-left:none;" > <img style="width: 20px;height:20px;display:inline;margin-left:0px; padding-top:4px;" src="box,jpg.png"></button>
+        </div>
+      <br><br>
+      <div style="display:flex;">  
+        <label for="password"></label>
+        <input type="password" placeholder="password" >
+
+
+      <button style="width: 35px; height:33px;background-color:white;border:1px solid;border-left:none;"> <img
+            style="width: 20px;height:20px;display:inline;margin-left:0px; padding-top:4px;" src="locked icon.png"></button>
+    </div>
+        <br><br>
+        
+    <a href="portal proj2.html" underline="none" style="text-decoration: none;color:white;width:50px;">
+    
+        
+<p style="width: 75px;height:25px; padding-left:20px; padding-top:6px;  background-color:rgb(4, 84, 245);border-radius:5px;">
+sign in
+</p>
+    </a>
+        <br><br>
+    
+
+        <p style="color: rgb(8, 89, 195); font-size:smaller; display:inline;">Forgot Password?</p>
+        <button style="background-color: rgba(20, 250, 12, 0.765);
+        color:white;
+        border:none;
+        border-radius: 3px;
+        margin-left:230px;
+        
+    
+         
+        ">Estudent</button>
+
+    
+        
+    
+</fieldset>
+
+</form>
+
+</body>
+
+</html>
