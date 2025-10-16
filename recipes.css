@@ -1,0 +1,6 @@
+.foods-recipes{
+    margin-top: 100px;
+    display: flex;
+    
+        gap: 15px;
+}

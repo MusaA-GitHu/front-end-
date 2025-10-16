@@ -1,0 +1,94 @@
+.frist-tags{
+    display: flex;
+    color: white;
+    margin-left: 30px;
+    gap: 30px;
+    margin-right: 40px;
+    margin-top: 50px;
+    font-family: arial;
+}
+
+.beef {
+    background-color: #64748b;
+    width: 350px;
+    height: 80px;
+    border-radius: 8px;
+    color:white;
+    text-align: center;
+}
+    .beef:hover{
+opacity: 0.7;
+background-color:#645fff ;
+
+    }
+    .text{
+        color: white;
+    }
+
+.breakfast {
+    color: white;
+    background-color: #64748b;
+        width: 350px;
+        height: 80px;
+        border-radius: 8px;
+        
+        text-align: center;
+
+}
+        .breakfast:hover {
+            opacity: 0.7;
+            background-color: #645fff;
+        }
+.second-tags{
+    display: flex;
+    gap: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.carrot{
+    color: white;
+        background-color: #64748b;
+        width: 350px;
+        height: 80px;
+        border-radius: 8px;
+    
+        text-align: center;
+
+}
+        .carrot:hover {
+            opacity: 0.7;
+            background-color: #645fff;
+        }
+.dinner{
+    color: white;
+        background-color: #64748b;
+        width: 350px;
+        height: 80px;
+        border-radius: 8px;
+    
+        text-align: center;
+}
+        .dinner:hover {
+            opacity: 0.7;
+            background-color: #645fff;
+        }
+.food{
+    color: white;
+        background-color: #64748b;
+        width: 350px;
+        height: 80px;
+        border-radius: 8px;
+    
+        text-align: center;
+}
+        .food:hover {
+            opacity: 0.7;
+            background-color: #645fff;
+        }
+        .footer-tags{
+            margin-top: 100px;
+                background-color: black;
+                    width: 100%;
+                    height: 70px;
+                    
+        }

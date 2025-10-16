@@ -1,0 +1,118 @@
+body{
+background-color: #F8FAFC;
+}
+.section1-about{
+    margin-top: 70px;
+    display: flex;
+    gap: 60px;
+    margin-left: 55px;
+}
+.section1-text{
+    
+    
+    
+    color:#0f172A;
+    font:16px  sanito, sans-serif;
+}
+p{
+    margin: 0px 0px 22px;
+}
+h3{
+    color: #0f172ad2;
+}
+form{
+    background-color: white;
+    border-radius: 4px;
+
+}
+.section1-form{
+    width: 480px;
+    height: 430px;
+    
+    
+}
+fieldset{
+    border: none;
+    border-radius: 4px;
+   
+}
+.allform{
+padding-left: 20px;
+margin-top: 20px;
+}
+label{
+    color: #0f172a7a;
+    
+
+}
+input{
+    background-color: #F8FAFC;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px; 
+    height: 25px;
+    border-radius: 4px;
+    border: none;
+}
+textarea{
+    background-color: #F8FAFC;
+    width: 400px;
+    height: 100px;
+    border-radius: 4px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 10px;
+
+}
+button{
+    justify-items: center;
+    background-color: #645fff;
+    margin-top: 15px;
+    width: 400px;
+    height: 25px;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.h5{
+    color:#0f172A;
+    font:20px roboto, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.food-list{
+    display: flex;
+    gap: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.firfir2{
+    width: 500px;
+        height: 155px;
+        object-fit: cover;
+        overflow: clip;
+        border-radius: 0.25rem;
+}
+.lafee2{
+    width: 500px;
+        height: 155px;
+        object-fit: cover;
+    
+        overflow: clip;
+        border-radius: 0.25rem;
+}
+.dokkee2{
+    width: 500px;
+        height: 155px;
+        object-fit: cover;
+        overflow: clip;
+        border-radius: 0.25rem;
+        
+}
+.dokkeepart{
+    margin-left: 40px;
+    margin-top: 20px;
+}
